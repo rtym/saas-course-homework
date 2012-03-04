@@ -1,0 +1,6 @@
+Solutions of Berkaley's course "Software Engineering for SAAS"
+
+For more information you can visit https://www.coursera.org/saas/auth/welcome
+
+For successful project configuration you should install Ruby 1.9.3 or later and RSpec 2.7.1
+Each solution has a couple of tests. To run them execute rspec <task_name>_spec.rb
